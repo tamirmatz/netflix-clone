@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tamirmatz.github.io/netflix-clone/static/css/main.0949a54f.css",
+    "main.js": "/tamirmatz.github.io/netflix-clone/static/js/main.aada830e.js",
+    "static/js/787.2e642e9c.chunk.js": "/tamirmatz.github.io/netflix-clone/static/js/787.2e642e9c.chunk.js",
+    "index.html": "/tamirmatz.github.io/netflix-clone/index.html",
+    "main.0949a54f.css.map": "/tamirmatz.github.io/netflix-clone/static/css/main.0949a54f.css.map",
+    "main.aada830e.js.map": "/tamirmatz.github.io/netflix-clone/static/js/main.aada830e.js.map",
+    "787.2e642e9c.chunk.js.map": "/tamirmatz.github.io/netflix-clone/static/js/787.2e642e9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0949a54f.css",
+    "static/js/main.aada830e.js"
+  ]
+}
